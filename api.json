@@ -1,5 +1,23 @@
 {
-    "date": "2024-05-23T15:40:09Z",
-    "version": "v2.0.0",
-    "url": "https://testserver.higiatec.com.br/apollo-desktop/"
+  "date": "2026-10-08T13:00:00Z",
+  "version": "v1.2.0",
+  "releaseUrl": "https://testserver.higiatec.com.br/apollo-desktop/",
+  "downloads": {
+    "windows-x64": {
+      "url": "https://testserver.higiatec.com.br/apollo-desktop/Apollo-1.2.0-x86-64.msi",
+      "sha256": ""
+    },
+    "linux-x64": {
+    "url": "https://github.com/higiatec/apollo-desktop-updates/releases/download/v1.2.0/apollo_1.0.0-1_amd64.deb",
+    "sha256": "48b1fdf92bda23c89dcfc872ed2faf14b43d08c5201c5d39ba50fe69a2ac2563"
+    },
+    "macos-x64": {
+      "url": "https://testserver.higiatec.com.br/apollo-desktop/Apollo-1.2.0-x86-64.pkg",
+      "sha256": ""
+    },
+    "macos-arm64": {
+      "url": "https://testserver.higiatec.com.br/apollo-desktop/Apollo-1.2.0-aarch64.pkg",
+      "sha256": ""
+    }
+  }
 }
