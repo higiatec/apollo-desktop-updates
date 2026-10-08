@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08T16:00:00Z",
   "version": "v1.1.0",
-  "releaseUrl": "https://testserver.higiatec.com.br/apollo-desktop/",
+  "releaseUrl": "https://github.com/higiatec/apollo-desktop-updates/releases/tag/v1.1.0",
   "downloads": {
     "windows-x64": {
       "url": "https://testserver.higiatec.com.br/apollo-desktop/Apollo-1.2.0-x86-64.msi",
