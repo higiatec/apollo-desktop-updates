@@ -9,7 +9,7 @@
     },
     "linux-x64": {
     "url": "https://github.com/higiatec/apollo-desktop-updates/releases/download/v1.0.0/apollo_1.0.0-1_amd64.deb",
-    "sha256": "fccae71b60b6b331b853caf822f80107229e1c7f7c37b9533e22d91aa4e280e9"
+    "sha256": "32237d07e5709af131a081b7fedc3490a56f553a75e5ed3882239030f42c3156"
     },
     "macos-x64": {
       "url": "https://testserver.higiatec.com.br/apollo-desktop/Apollo-1.2.0-x86-64.pkg",
