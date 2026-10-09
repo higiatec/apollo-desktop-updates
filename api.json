@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-08T17:00:00Z",
-  "version": "v1.2.0",
+  "date": "2026-10-09T09:00:00Z",
+  "version": "v1.0.0",
   "releaseUrl": "https://github.com/higiatec/apollo-desktop-updates/releases/tag/v1.1.0",
   "downloads": {
     "windows-x64": {
@@ -8,8 +8,8 @@
       "sha256": ""
     },
     "linux-x64": {
-    "url": "https://github.com/higiatec/apollo-desktop-updates/releases/download/v1.2.0/apollo_1.2.0-1_amd64.deb",
-    "sha256": "80645078b328d94f939390a80d7bc54377e4c1889ef902f0bd888c0e8f413de3"
+    "url": "https://github.com/higiatec/apollo-desktop-updates/releases/download/v1.0.0/apollo_1.0.0-1_amd64.deb",
+    "sha256": "fccae71b60b6b331b853caf822f80107229e1c7f7c37b9533e22d91aa4e280e9"
     },
     "macos-x64": {
       "url": "https://testserver.higiatec.com.br/apollo-desktop/Apollo-1.2.0-x86-64.pkg",
